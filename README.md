@@ -11,7 +11,23 @@ This project automates the analysis of RFP documents by:
 - **Compliance Scoring**: Calculates compliance coverage percentage
 - **Win Probability**: Predicts win probability based on compliance and risk metrics
 
-## 🏗️ Architecture
+## � Demo Video
+
+Watch the RFP Intelligence MVP in action:
+
+[![RFP Intelligence MVP Demo](https://img.youtube.com/vi/m0sIzDE2AZ8/0.jpg)](https://www.youtube.com/watch?v=m0sIzDE2AZ8)
+
+**Video demonstrates:**
+- PDF upload and analysis workflow
+- Metadata extraction from RFP documents
+- Requirements classification by type
+- Risk assessment and compliance scoring
+- Dashboard visualization with KPIs
+- Real-time LLM processing with Ollama
+
+[Watch on YouTube](https://www.youtube.com/watch?v=m0sIzDE2AZ8)
+
+## ️ Architecture
 
 ### Tech Stack
 - **Backend**: FastAPI with Uvicorn
