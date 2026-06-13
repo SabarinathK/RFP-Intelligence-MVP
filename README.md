@@ -2,14 +2,6 @@
 
 An AI-powered RFP (Request for Proposal) analysis platform that extracts metadata, classifies requirements, assesses risks, and calculates win probability using LangGraph workflows and local Ollama LLM inference.
 
-## 🎯 Overview
-
-This project automates the analysis of RFP documents by:
-- **Extracting Metadata**: Customer name, RFP title, dates, contract value
-- **Classifying Requirements**: Technical, functional, security, and compliance requirements
-- **Risk Assessment**: Evaluates risk factors and assigns risk levels (LOW/MEDIUM/HIGH)
-- **Compliance Scoring**: Calculates compliance coverage percentage
-- **Win Probability**: Predicts win probability based on compliance and risk metrics
 
 ## � Demo Video
 
@@ -26,6 +18,18 @@ Watch the RFP Intelligence MVP in action:
 - Real-time LLM processing with Ollama
 
 [Watch on YouTube](https://www.youtube.com/watch?v=m0sIzDE2AZ8)
+
+
+## 🎯 Overview
+
+This project automates the analysis of RFP documents by:
+- **Extracting Metadata**: Customer name, RFP title, dates, contract value
+- **Classifying Requirements**: Technical, functional, security, and compliance requirements
+- **Risk Assessment**: Evaluates risk factors and assigns risk levels (LOW/MEDIUM/HIGH)
+- **Compliance Scoring**: Calculates compliance coverage percentage
+- **Win Probability**: Predicts win probability based on compliance and risk metrics
+
+
 
 ## ️ Architecture
 
